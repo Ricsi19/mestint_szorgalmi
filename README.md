@@ -19,7 +19,7 @@ ___
   
 
 ##### Futtatáshoz szükséges környezet
- - A legegyszerűbb a minimax.C kódot kimásolni, és CLion-ban egy új projektbe illeszteni
+ - A legegyszerűbb a minimax.c kódot kimásolni, és CLion-ban egy új projektbe illeszteni
  - Linux környezetben szükség lesz a gcc fordítóra, majd terminálban a minimax.C kódhoz navigálva, a következőket kell megadni:
 	 - `gcc minmax_fa.c -o minmax_fa`
 	 - `./minmax_fa`
